@@ -281,7 +281,7 @@ img.center{
         }
 
         .footer .footer-content .links .socials{
-            margin-top: 60px;
+            margin-top: 50px;
             margin-left: 50px;
             margin-right: 50px;
             padding:auto !important;
@@ -289,8 +289,9 @@ img.center{
          }
 
          .footer .footer-content .links h2.social{
-            margin-bottom: 20px !important;
             text-align: center !important;
+            font-size:1.5em;
+            font-weight: bold;
         }
        
 
