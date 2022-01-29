@@ -51,13 +51,6 @@ nav a{
   color: black;
 }
 
-.links:hover{
-  color: rgb(79, 219, 172);
-}
-
-.dark .links:hover{
-  color: rgb(79, 219, 172);
-}
 .bold{
     font-weight: bold;
 }
@@ -232,6 +225,12 @@ color: cornsilk;
   border:1px solid rgb(10, 35, 255);
   color: white;
   transition: all .3s;
+}
+
+.footer .footer-content .links h2.tesoc {
+  margin-bottom: 20px;
+  font-size: 1.2rem;
+  text-align: center;
 }
 
 .footer .footer-content .links .socials{
