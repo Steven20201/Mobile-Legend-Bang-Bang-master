@@ -288,6 +288,12 @@ img.center{
 
          }
 
+         .footer .footer-content .links h2 .social{
+            margin-bottom: 20px;
+            text-align: center;
+        }
+       
+
          .footer .footer-content .links .socials a{
             border: 1px solid grey;
             width: 50px;
