@@ -281,7 +281,11 @@ img.center{
         }
 
         .footer .footer-content .links .socials{
-            margin-top: 100px;
+            margin-top: 60px;
+            margin-left: 50px;
+            margin-right: 50px;
+            padding:auto !important;
+
          }
 
          .footer .footer-content .links .socials a{
