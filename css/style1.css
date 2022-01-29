@@ -219,13 +219,17 @@ h2.game{
     transition: all .3s;
 }
 
-.footer .footer-content .links h2 .social{
+.footer .footer-content .links h2.social{
     margin-bottom: 20px;
     text-align: center;
 }
 
+
 .footer .footer-content .links .socials{
-   margin-top: 70px;
+  margin-top: 60px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding:auto !important;
 }
 
 .footer .footer-content .links .socials a{
